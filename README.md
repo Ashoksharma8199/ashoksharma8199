@@ -1,33 +1,29 @@
-### 👋 Hello! I'm Ashok Sharma
+  <header>
+    <h1>👋 Hello, I'm Ashok Sharma</h1>
+    <p>Front-End Developer | HTML | CSS | JS | Bootstrap | WordPress</p>
+  </header>
 
-💻 I’m a Front-End Developer with skills in:  
-✅ HTML | CSS | JavaScript | Bootstrap | WordPress  
+  <section>
+    <h2>🌐 Portfolio</h2>
+    <p>I’m a front-end web developer with hands-on experience in designing and building responsive, user-friendly websites. I'm currently looking for a full-time opportunity.</p>
+  </section>
 
-🎯 I’m looking for a **full-time job** in website development.  
-🛠️ I enjoy building responsive and SEO-friendly websites.
+  <section>
+    <h2>💼 Projects</h2>
+    <ul>
+      <li><a href="https://drmukherjeenephrologist.com" target="_blank">Dr. Mukherjee Nephrologist Website</a></li>
+      <li><a href="https://akankshaivfcentre.com" target="_blank">Akanksha IVF Centre Website</a></li>
+    </ul>
+  </section>
 
-📫 Contact Me:  
-📧 Email: ashoksharma8199@gmail.com  
-📞 Phone: +91 8447924115  
-🌐 Portfolio: [Coming Soon]
+  <section>
+    <h2>📞 Contact</h2>
+    <p>Email: <a href="mailto:ashoksharma8199@gmail.com">ashoksharma8199@gmail.com</a></p>
+    <p>Phone: +91 8447924115</p>
+    <p>GitHub: <a href="https://github.com/Ashoksharma8199" target="_blank">Ashoksharma8199</a></p>
+  </section>
 
----
+  <footer>
+    <p>&copy; 2025 Ashok Sharma. All rights reserved.</p>
+  </footer>
 
-### 🧰 My Tools & Technologies:
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress)
-
----
-
-### 🛠️ Projects I’ve Worked On:
-- 🔗 [drmukherjeenephrologist.com](https://drmukherjeenephrologist.com)
-- 🔗 [akankshaivfcentre.com](https://www.akankshaivfcentre.com)
-- (More coming soon…)
-
----
-
-⚡ *I’m committed to learning and growing in the web development field.*  
-**Let’s connect and build something great!**
