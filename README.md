@@ -1,25 +1,33 @@
-<h1> Hi 👋, I am Ashok </h1>
-<ul>
-<li>- 🔭 I’m currently working on ... </li>
-<li>- 🌱 I’m currently learning ... </li>
-<li>- 👯 I’m looking to collaborate on ... </li>
-<li>- 🤔 I’m looking for help with ... </li>
-<li>- 💬 Ask me about ...</li>
-<li>- 📫 How to reach me: ...</li>
-<li>- 😄 Pronouns: ...</li>
-<li>- ⚡ Fun fact: ...</li>
-</ul>
-<!--
-**Ashoksharma8199/ashoksharma8199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hello! I'm Ashok Sharma
 
-Here are some ideas to get you started:
+💻 I’m a Front-End Developer with skills in:  
+✅ HTML | CSS | JavaScript | Bootstrap | WordPress  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 I’m looking for a **full-time job** in website development.  
+🛠️ I enjoy building responsive and SEO-friendly websites.
+
+📫 Contact Me:  
+📧 Email: ashoksharma8199@gmail.com  
+📞 Phone: +91 8447924115  
+🌐 Portfolio: [Coming Soon]
+
+---
+
+### 🧰 My Tools & Technologies:
+![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress)
+
+---
+
+### 🛠️ Projects I’ve Worked On:
+- 🔗 [drmukherjeenephrologist.com](https://drmukherjeenephrologist.com)
+- 🔗 [akankshaivfcentre.com](https://www.akankshaivfcentre.com)
+- (More coming soon…)
+
+---
+
+⚡ *I’m committed to learning and growing in the web development field.*  
+**Let’s connect and build something great!**
