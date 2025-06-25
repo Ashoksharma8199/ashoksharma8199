@@ -1,3 +1,19 @@
+# 👋 Hi, I'm Ashok Kumar Sharma
+
+🎯 Frontend Developer | WordPress Expert | 10+ Years Experience  
+🌐 I build fast, responsive, and SEO-optimized websites  
+📫 Reach me at: ashoksharma8199@gmail.com | +91 8447924115
+
+## 🚀 My Projects
+
+- [drmukherjeenephrologist.com](https://drmukherjeenephrologist.com/)
+- [docinfra.in](https://docinfra.in/)
+- [akankshaivfcentre.com](https://akankshaivfcentre.com/)
+
+## 🛠️ Tech Stack
+HTML | CSS | Bootstrap | JavaScript | PHP | WordPress | Elementor | WooCommerce | Photoshop | Canva
+
+
 # 🌐 Ashok Kumar Sharma – Portfolio
 
 Frontend Developer with 10+ years of experience in building responsive, SEO-friendly websites using HTML, CSS, JavaScript, PHP, WordPress, and more.
