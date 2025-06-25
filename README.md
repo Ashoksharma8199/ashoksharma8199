@@ -1,39 +1,3 @@
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Ashok Kumar Sharma | Portfolio</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f8f9fa;
-    }
-    .hero {
-      background-color: #343a40;
-      color: white;
-      padding: 60px 20px;
-      text-align: center;
-    }
-    .section-title {
-      margin-top: 40px;
-      margin-bottom: 20px;
-    }
-    .card {
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-    a {
-      text-decoration: none;
-    }
-    footer {
-      text-align: center;
-      padding: 20px;
-      background-color: #343a40;
-      color: white;
-      margin-top: 40px;
-    }
-  </style>
-</head>
-
 
   <section class="hero">
     <h1>Ashok Kumar Sharma</h1>
@@ -43,7 +7,6 @@
     <p>GitHub: <a href="https://github.com/Ashoksharma8199" class="text-light" target="_blank">Ashoksharma8199</a></p>
   </section>
 
-  <div class="container">
 
     <h2 class="section-title">About Me</h2>
     <p>
@@ -97,6 +60,5 @@
       </div>
     </div>
 
-  </div>
 
 
