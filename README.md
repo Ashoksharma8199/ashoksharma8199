@@ -1,64 +1,56 @@
+# 🌐 Ashok Kumar Sharma – Portfolio
 
-  <section class="hero">
-    <h1>Ashok Kumar Sharma</h1>
-    <p class="lead">Frontend Developer | WordPress Specialist</p>
-    <p>Phone: +91 8447924115</p>
-    <p>Email: <a href="mailto:ashoksharma8199@gmail.com" class="text-light">ashoksharma8199@gmail.com</a></p>
-    <p>GitHub: <a href="https://github.com/Ashoksharma8199" class="text-light" target="_blank">Ashoksharma8199</a></p>
-  </section>
+Frontend Developer with 10+ years of experience in building responsive, SEO-friendly websites using HTML, CSS, JavaScript, PHP, WordPress, and more.
 
+---
 
-    <h2 class="section-title">About Me</h2>
-    <p>
-      Experienced Front-End Developer with 10+ years in designing and developing responsive, user-centric websites.
-      Specialized in WordPress, Elementor, WooCommerce, and modern web technologies.
-    </p>
+## 🛠️ Skills
 
-    <h2 class="section-title">Education</h2>
-    <p>B.A. – D.S. College, Aligarh, Uttar Pradesh</p>
+- HTML5, CSS3, Bootstrap
+- JavaScript, PHP
+- WordPress, Elementor, WooCommerce, Shopify
+- Adobe Photoshop, Canva
 
-    <h2 class="section-title">Experience</h2>
-    <p>10+ Years in Front-End Development & WordPress Design</p>
+---
 
-    <h2 class="section-title">Key Skills</h2>
-    <ul>
-      <li>HTML5, CSS3, JavaScript, Bootstrap, PHP</li>
-      <li>WordPress, Elementor, WooCommerce, Shopify</li>
-      <li>Adobe Photoshop, Canva</li>
-      <li>Responsive Design, GitHub, Hosting Setup</li>
-    </ul>
+## 🌍 Projects
 
-    <h2 class="section-title">Projects</h2>
-    <div class="row">
-      <div class="col-md-6 mb-3">
-        <ul>
-          <li><a href="https://www.delhibuilder.com/" target="_blank">delhibuilder.com</a></li>
-          <li><a href="https://docinfra.in/" target="_blank">docinfra.in</a></li>
-          <li><a href="https://ridgeivf.com/" target="_blank">ridgeivf.com</a></li>
-          <li><a href="https://1talkshow.com/" target="_blank">1talkshow.com</a></li>
-          <li><a href="https://akankshaivfcentre.com/" target="_blank">akankshaivfcentre.com</a></li>
-          <li><a href="https://plasopan.com/" target="_blank">plasopan.com</a></li>
-          <li><a href="https://www.transgendersurgeryworld.com/" target="_blank">transgendersurgeryworld.com</a></li>
-          <li><a href="https://indianfertilitysociety.org/" target="_blank">indianfertilitysociety.org</a></li>
-          <li><a href="https://www.drabhamajumdar.com/" target="_blank">drabhamajumdar.com</a></li>
-          <li><a href="https://drmukherjeenephrologist.com/" target="_blank">drmukherjeenephrologist.com</a></li>
-        </ul>
-      </div>
-      <div class="col-md-6 mb-3">
-        <ul>
-          <li><a href="https://www.drpankajtalwar.com/" target="_blank">drpankajtalwar.com</a></li>
-          <li><a href="https://surgerycosmeticplastic.com/" target="_blank">surgerycosmeticplastic.com</a></li>
-          <li><a href="https://www.easytouchmanpowersolution.com/" target="_blank">easytouchmanpowersolution.com</a></li>
-          <li><a href="https://ninepackaging.com/" target="_blank">ninepackaging.com</a></li>
-          <li><a href="https://sunilsharan.com/" target="_blank">sunilsharan.com</a></li>
-          <li><a href="https://oilexindia.in/" target="_blank">oilexindia.in</a></li>
-          <li><a href="https://sindhighoriwala.com/" target="_blank">sindhighoriwala.com</a></li>
-          <li><a href="https://gourihospital.com/" target="_blank">gourihospital.com</a></li>
-          <li><a href="https://www.yfuindia.org/" target="_blank">yfuindia.org</a></li>
-          <li><a href="https://kooltechonline.com/" target="_blank">kooltechonline.com</a></li>
-        </ul>
-      </div>
-    </div>
+- [delhibuilder.com](https://www.delhibuilder.com/)
+- [docinfra.in](https://docinfra.in/)
+- [ridgeivf.com](https://ridgeivf.com/)
+- [1talkshow.com](https://1talkshow.com/)
+- [akankshaivfcentre.com](https://akankshaivfcentre.com/)
+- [plasopan.com](https://plasopan.com/)
+- [transgendersurgeryworld.com](https://www.transgendersurgeryworld.com/)
+- [indianfertilitysociety.org](https://indianfertilitysociety.org/)
+- [drabhamajumdar.com](https://www.drabhamajumdar.com/)
+- [drmukherjeenephrologist.com](https://drmukherjeenephrologist.com/)
+- [drpankajtalwar.com](https://www.drpankajtalwar.com/)
+- [surgerycosmeticplastic.com](https://surgerycosmeticplastic.com/)
+- [easytouchmanpowersolution.com](https://www.easytouchmanpowersolution.com/)
+- [ninepackaging.com](https://ninepackaging.com/)
+- [sunilsharan.com](https://sunilsharan.com/)
+- [oilexindia.in](https://oilexindia.in/)
+- [sindhighoriwala.com](https://sindhighoriwala.com/)
+- [gourihospital.com](https://gourihospital.com/)
+- [yfuindia.org](https://www.yfuindia.org/)
+- [kooltechonline.com](https://kooltechonline.com/)
 
+---
 
+## 🎓 Education
 
+**B.A.**, D.S. College, Aligarh, Uttar Pradesh
+
+---
+
+## 📞 Contact
+
+- **Name:** Ashok Kumar Sharma  
+- **Phone:** +91 8447924115  
+- **Email:** [ashoksharma8199@gmail.com](mailto:ashoksharma8199@gmail.com)  
+- **GitHub:** [Ashoksharma8199](https://github.com/Ashoksharma8199)
+
+---
+
+> 🧾 Want to collaborate or hire? Feel free to contact me!
