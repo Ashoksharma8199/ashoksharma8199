@@ -47,5 +47,4 @@
 
 ## 📄 Resume & GitHub
 - **GitHub:** [github.com/Ashoksharma8199](https://github.com/Ashoksharma8199)
-- **Portfolio:** [Ashoksharma8199 GitHub Pages](https://ashoksharma8199.github.io)
-- **Resume (PDF):** [Click here to download](https://github.com/Ashoksharma8199/Ashoksharma8199/raw/main/Ashok_Kumar_Sharma_Resume.pdf)
+
