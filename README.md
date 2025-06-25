@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -35,7 +33,7 @@
     }
   </style>
 </head>
-<body>
+
 
   <section class="hero">
     <h1>Ashok Kumar Sharma</h1>
@@ -101,9 +99,4 @@
 
   </div>
 
-  <footer>
-    &copy; 2025 Ashok Kumar Sharma. All rights reserved.
-  </footer>
 
-</body>
-</html>
