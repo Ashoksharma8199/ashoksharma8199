@@ -6,31 +6,6 @@
 
 ## 🚀 My Projects
 
-- [drmukherjeenephrologist.com](https://drmukherjeenephrologist.com/)
-- [docinfra.in](https://docinfra.in/)
-- [akankshaivfcentre.com](https://akankshaivfcentre.com/)
-
-## 🛠️ Tech Stack
-HTML | CSS | Bootstrap | JavaScript | PHP | WordPress | Elementor | WooCommerce | Photoshop | Canva
-
-
-# 🌐 Ashok Kumar Sharma – Portfolio
-
-Frontend Developer with 10+ years of experience in building responsive, SEO-friendly websites using HTML, CSS, JavaScript, PHP, WordPress, and more.
-
----
-
-## 🛠️ Skills
-
-- HTML5, CSS3, Bootstrap
-- JavaScript, PHP
-- WordPress, Elementor, WooCommerce, Shopify
-- Adobe Photoshop, Canva
-
----
-
-## 🌍 Projects
-
 - [delhibuilder.com](https://www.delhibuilder.com/)
 - [docinfra.in](https://docinfra.in/)
 - [ridgeivf.com](https://ridgeivf.com/)
@@ -52,21 +27,6 @@ Frontend Developer with 10+ years of experience in building responsive, SEO-frie
 - [yfuindia.org](https://www.yfuindia.org/)
 - [kooltechonline.com](https://kooltechonline.com/)
 
----
+## 🛠️ Tech Stack
+HTML | CSS | Bootstrap | JavaScript | PHP | WordPress | Elementor | WooCommerce | Photoshop | Canva | Shopify
 
-## 🎓 Education
-
-**B.A.**, D.S. College, Aligarh, Uttar Pradesh
-
----
-
-## 📞 Contact
-
-- **Name:** Ashok Kumar Sharma  
-- **Phone:** +91 8447924115  
-- **Email:** [ashoksharma8199@gmail.com](mailto:ashoksharma8199@gmail.com)  
-- **GitHub:** [Ashoksharma8199](https://github.com/Ashoksharma8199)
-
----
-
-> 🧾 Want to collaborate or hire? Feel free to contact me!
