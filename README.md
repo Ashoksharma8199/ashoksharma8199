@@ -1,16 +1,27 @@
 # 👋 Hi, I'm Ashok Kumar Sharma
+📱 +91-XXXXXXXXXX | ✉️ ashok@example.com
 
 🎯 **Front-End Developer with 10+ Years of Experience**  
 🔧 HTML5 | CSS3 | Bootstrap | JavaScript | PHP | WordPress | Elementor | WooCommerce | Shopify | Photoshop | Canva
 
 ---
 
-## 🚀 Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript, PHP
-- **Frameworks/Libraries:** Bootstrap, jQuery
-- **CMS & Tools:** WordPress, Elementor, WooCommerce, Shopify
-- **Design Tools:** Adobe Photoshop, Canva
+## 🛠️ Skills & Technologies
+- **Languages:** HTML5, CSS3, JavaScript, PHP  
+- **Frameworks & Tools:** Bootstrap, WordPress, Elementor, WooCommerce, Shopify  
+- **Design:** Adobe Photoshop, Canva  
+- **CMS & Page Builders:** WordPress, Elementor  
+- **eCommerce:** WooCommerce, Shopify  
 - **Additional Skills:** WordPress backend setup (database creation, WP upload), custom theme conversion from HTML to WordPress, theme activation and customization
+
+---
+
+## 🧩 Expertise & Services
+- Building responsive websites that work seamlessly across devices  
+- Customizing WordPress themes and developing plugins  
+- Designing high-converting landing pages, blogs, and eCommerce stores  
+- Speed optimization and SEO best practices implementation  
+- Designing banners, graphics, and branding assets with Photoshop and Canva
 
 ---
 
