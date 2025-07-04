@@ -5,6 +5,10 @@
 🔧 HTML5 | CSS3 | Bootstrap | JavaScript | PHP | WordPress | Elementor | WooCommerce | Shopify | Photoshop | Canva
 
 ---
+## About us
+I am Ashok Kumar Sharma, frontend developer with 10+ years of experience based in Budh Vihar–II, Delhi–86. I have strong skills in HTML, CSS, and Bootstrap, and can efficiently convert static HTML into fully functional WordPress themes. I also have solid hands-on experience with WooCommerce, Elementor, and other popular page builders. In addition, I can create custom WordPress themes from HTML, customize existing themes to match client requirements, manage and create databases, handle site backups and restorations, and upload websites seamlessly. I am committed to delivering responsive, user-friendly, and well-optimized websites. My expected salary is ₹35,000 per month, and I am passionate about creating modern, clean designs while helping clients strengthen their online presence.
+
+----
 
 ## 🛠️ Skills & Technologies
 - **Languages:** HTML5, CSS3, JavaScript, PHP  
@@ -18,7 +22,7 @@
 
 ## 🧩 Expertise & Services
 - Building responsive websites that work seamlessly across devices  
-- Customizing WordPress themes and developing plugins  
+- Customizing WordPress themes   
 - Designing high-converting landing pages, blogs, and eCommerce stores  
 - Speed optimization and SEO best practices implementation  
 - Designing banners, graphics, and branding assets with Photoshop and Canva
@@ -53,6 +57,17 @@
 
 ## 🎓 Education
 - **B.A.** from DS College, Aligarh, Uttar Pradesh
+
+---
+
+## Languages
+- Hindi (Native)
+- English (Professional proficiency)
+
+---
+
+## Expected Salary 
+ ₹40,000 per month (Negotiable)
 
 ---
 
