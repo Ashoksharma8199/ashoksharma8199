@@ -2,23 +2,29 @@
 📱 +91-8447924115 | ✉️ ashoksharma8199@gmail.com
 
 🎯 **Front-End Developer with 10+ Years of Experience**  
-🔧 HTML5 | CSS3 | Bootstrap | JavaScript | PHP | WordPress | Elementor | WooCommerce | Photoshop | Canva | Laravel | Shopify |
+🔧 Frontend WordPress Developer | Elementor & WooCommerce | HTML CSS JavaScript Bootstrap | MySQL Database | Responsive Web Design | Webflow & Shopify | Photoshop | Canva
 
 ---
 ## About us
-I am Ashok Kumar Sharma, frontend developer with 10+ years of experience based in Budh Vihar–II, Delhi–86. I have strong skills in HTML, CSS, and Bootstrap, and can efficiently convert static HTML into fully functional WordPress themes. I also have solid hands-on experience with WooCommerce, Elementor, and other popular page builders. In addition, I can create custom WordPress themes from HTML, customize existing themes to match client requirements, manage and create databases, handle site backups and restorations, and upload websites seamlessly. I am committed to delivering responsive, user-friendly, and well-optimized websites. My expected salary is Negotiable, and I am passionate about creating modern, clean designs while helping clients strengthen their online presence.
+I am a Frontend WordPress Developer with skills in creating responsive and user-friendly websites. I specialize in WordPress development using Elementor and WooCommerce to build modern, fast, and mobile-friendly websites.
+I have experience working with HTML, CSS, JavaScript, and Bootstrap to design and customize website layouts. I also explore modern platforms like Webflow and Shopify to expand my web development capabilities.
+My focus is on building clean, responsive, and performance-optimized websites that provide a great user experience across all devices.
 
 ----
 
-## 🛠️ Skills & Technologies
-- **Languages:** HTML5, CSS3, JavaScript, PHP  
-- **Frameworks & Tools:** Bootstrap, WordPress, Elementor, WooCommerce, Shopify  
-- **Design:** Adobe Photoshop, Canva  
-- **CMS & Page Builders:** WordPress, Elementor  
-- **eCommerce:** WooCommerce, Shopify  
-- **Additional Skills:** WordPress backend setup (database creation, WP upload), custom theme conversion from HTML to WordPress, theme activation and customization
+## 🛠️ Skills
+• WordPress Development
+• Elementor & WooCommerce
+• HTML, CSS, JavaScript
+• Bootstrap Framework
+• Responsive Web Design
+• MySQL / Database Management
+• Webflow & Shopify
+• Basic Graphic Tools (Canva, Photoshop)
 
----
+I am always learning new technologies and looking for opportunities to work on innovative web projects.
+
+----
 
 ## 🧩 Expertise & Services
 - Building responsive websites that work seamlessly across devices  
@@ -46,7 +52,6 @@ I am Ashok Kumar Sharma, frontend developer with 10+ years of experience based i
 | Cosmetic Surgery | [surgerycosmeticplastic.com](https://surgerycosmeticplastic.com/) |
 | Easy Touch Manpower | [easytouchmanpowersolution.com](https://www.easytouchmanpowersolution.com/) |
 | Nine Packaging | [ninepackaging.com](https://ninepackaging.com/) |
-| Sunil Sharan | [sunilsharan.com](https://sunilsharan.com/) |
 | Oilex India | [oilexindia.in](https://oilexindia.in/) |
 | Sindhi Ghoriwala | [sindhighoriwala.com](https://sindhighoriwala.com/) |
 | Gouri Hospital | [gourihospital.com](https://gourihospital.com/) |
