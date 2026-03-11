@@ -7,7 +7,9 @@
 ---
 ## About us
 I am a Frontend WordPress Developer with skills in creating responsive and user-friendly websites. I specialize in WordPress development using Elementor and WooCommerce to build modern, fast, and mobile-friendly websites.
+
 I have experience working with HTML, CSS, JavaScript, and Bootstrap to design and customize website layouts. I also explore modern platforms like Webflow and Shopify to expand my web development capabilities.
+
 My focus is on building clean, responsive, and performance-optimized websites that provide a great user experience across all devices.
 
 ----
