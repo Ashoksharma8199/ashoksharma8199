@@ -2,7 +2,7 @@
 📱 +91-8447924115 | ✉️ ashoksharma8199@gmail.com
 
 🎯 **Front-End Developer with 10+ Years of Experience**  
-🔧 Frontend WordPress Developer | Elementor & WooCommerce | HTML CSS JavaScript Bootstrap | MySQL Database | Responsive Web Design | Photoshop | Canva | Webflow | Learning Shopify
+🔧Senior Frontend WordPress Developer | Elementor & WooCommerce | HTML CSS JavaScript Bootstrap | MySQL Database | Responsive Web Design | Photoshop | Canva | Webflow | Learning Shopify
 
 ---
 ## About us
