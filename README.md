@@ -79,7 +79,7 @@ https://projecta-623cdb.webflow.io/
 ---
 
 ## Expected Salary 
- ₹40,000 per month (Negotiable)
+ Negotiable
 
 ---
 
